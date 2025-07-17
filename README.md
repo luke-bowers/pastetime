@@ -15,8 +15,8 @@ Check out the live app: [https://www.pastetime.com/](https://www.pastetime.com/)
 
 ## 📣 Feedback, Bugs & Feature Requests
 
-- **Found a bug?** [Open an Issue](https://github.com/luke-bowers/pastetime/issues/new?template=bug_report.md)
-- **Have an idea or feature request?** [Open a Feature Request](https://github.com/luke-bowers/pastetime/issues/new?template=feature_request.md)
+- **Found a bug?** [Open an Issue](https://github.com/luke-bowers/pastetime/issues/new?template=bug_report.yml)
+- **Have an idea or feature request?** [Open a Feature Request](https://github.com/luke-bowers/pastetime/issues/new?template=feature_request.yml)
 
 I love hearing from users and developers—your feedback helps make Pastetime better for everyone.
 
