@@ -61,7 +61,7 @@ I love hearing from users and developers—your feedback helps make Pastetime be
 
 If Pastetime saves you time or headaches, you can show your appreciation here:
 
-[Donate with Ko-fi](https://ko-fi.com) | [Buy Me a Coffee](https://buymeacoffee.com)
+[![Donate with Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
 
 Thank you for your support!
 
