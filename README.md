@@ -2,6 +2,8 @@
 
 Welcome to the official community and support repository for [Pastetime](https://www.pastetime.com/), your developer-friendly suite for timestamp, timezone, and business days calculations.
 
+> **Note:** This repository is for issues, feature requests, and docs only—there is no code in this repo.  
+
 ## 🚀 What is Pastetime?
 
 Pastetime is a collection of free, fast, and privacy-focused tools for:
@@ -59,10 +61,6 @@ Want to help shape the future? Open a feature request or upvote an idea in Issue
 - [Blog](https://www.pastetime.com/blog/)
 - [X (Twitter)](https://twitter.com/_lbowers)
 - [DEV.to](https://dev.to/luke_bowers)
-
----
-
-> **Note:** This repository is for issues, feature requests, and docs only—there is no code in this repo.  
 
 ---
 
